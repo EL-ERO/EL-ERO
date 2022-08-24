@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EL-ERO
-- 👀 I’m interested in coding🤭
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning html,CSS and JavaScript on sololearn.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me youngero116@gmail.com or 07044322448.
